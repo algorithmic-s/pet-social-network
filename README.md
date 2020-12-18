@@ -5,4 +5,4 @@ just an idea I thought up of right now, might work on it later. I think this cou
 
 
           A WEB APPLICATION THAT IS INSPIRED BY REAL EVENTS HAPPENING CURRENTLY:
-I saw an article today (December 18th) about people scamming others out of their money from false pet advertisements, that made me want to create either a website or application that solves this problem
+I saw an article today (December 18th 2020) about people scamming others out of their money from false pet advertisements, that made me want to create either a website or application that solves this problem
